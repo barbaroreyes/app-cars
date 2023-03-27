@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View ,Image } from 'react-native';
+import { StyleSheet, View ,Image } from 'react-native';
 
 const PlaceholderImage = require('./assets/corona.png');
 
